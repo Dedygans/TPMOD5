@@ -7,7 +7,7 @@ package tpmod5;
 
 /**
  *
- * @author adity
+ * @author dedyh
  */
 public class TPMOD5 {
 
